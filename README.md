@@ -1,2 +1,8 @@
-# my-academic-tracker
-My Interactive Academic Study Planner An interactive, self-contained productivity dashboard built completely inside a Jupyter Notebook environment. This project uses Python widgets, real-time data calculations, and visualization tools to manage tasks and track study focus thresholds 
+# 🎓 academic-sandbox
+A personal collection of interactive tools, physics simulations, and academic dashboards built to visualize complex concepts and streamline daily study workflows.
+### 📂 What's Inside:
+* **`my_study_tracker.ipynb`** – Main academic planner dashboard.
+* **`notebooks_Flashcards deck.ipynb`** – Active-recall testing system.
+* **`Orbital & Trajectory Simulator.ipynb`** – Physics simulation for orbital paths.
+### 🛠️ Built With:
+* Python & Jupyter Notebooks (`ipywidgets`, `matplotlib`, `pandas`)
